@@ -1,0 +1,6 @@
+Plugins
+--------------
+Contact Form 7 By Takayuki Miyoshi
+Contact Form 7 Database Addon – CFDB7 By Arshid
+WPBakery Page Builder
+Advanced Custom Fields By Elliot Condon
