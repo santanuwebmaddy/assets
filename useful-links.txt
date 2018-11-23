@@ -1,5 +1,7 @@
 1. google speed test
 https://developers.google.com/speed/pagespeed/insights/
+get google API KEY:
+https://console.developers.google.com/apis/credentials
 
 2. plugins & links
 https://www.jqueryscript.net/animation/Fullscreen-Snow-Falling-Effect-With-jQuery-Snowfall.html
