@@ -1,7 +1,8 @@
 Plugins
 --------------
 Contact Form 7 By Takayuki Miyoshi
-Contact Form 7 Database Addon – CFDB7 By Arshid
+Contact Form 7 Database Addon â€“ CFDB7 By Arshid
+WPS Hide Login
 WPBakery Page Builder
 Advanced Custom Fields By Elliot Condon
 
