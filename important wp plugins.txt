@@ -1,11 +1,17 @@
 Plugins
 --------------
+
 Contact Form 7 By Takayuki Miyoshi
 Contact Form 7 Database Addon – CFDB7 By Arshid
-WPS Hide Login
+Contact Form 7 Redirection
+Advanced Custom Fields - By Elliot Condon
+Advanced Custom Fields - Repeater Field
 WPBakery Page Builder
-Advanced Custom Fields By Elliot Condon
+WP SUPER CACHE
+WPS Hide Login
+Akismet Anti-Spam  
+All-in-One WP Migration  ---- localhost to server
 
-Get Wordpress Details
 --------------
+Get Wordpress Details
 https://www.wpthemedetector.com/
