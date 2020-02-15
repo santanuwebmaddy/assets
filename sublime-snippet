@@ -10,6 +10,9 @@ STEP3:
 To save this file type the 'unique-name.sublime-snippet' 
 and save it.
 Example: newsection.sublime-snippet
+STEP4:
+To edit any shortcut
+File -> Open File -> User -> Choose your file and edit.
  -->
 
 <snippet>
