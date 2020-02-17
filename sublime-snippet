@@ -34,3 +34,18 @@ File -> Open File -> User -> Choose your file and edit.
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<!-- <scope>source.python</scope> -->
 </snippet>
+
+
+
+
+--------------------------
+LIST:
+WORDPRESS:
+wpblog
+
+HTML:
+newsection
+
+BOOTSTRAP:
+bsnav
+bsmedia
