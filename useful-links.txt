@@ -6,6 +6,7 @@ https://console.developers.google.com/apis/credentials
 
 2. plugins & links
 https://www.blobmaker.app/
+https://webgradients.com/
 https://shape.so/app/animated-icons
 https://www.jqueryscript.net/animation/Fullscreen-Snow-Falling-Effect-With-jQuery-Snowfall.html
 http://mmenu.frebsite.nl/
