@@ -5,6 +5,7 @@ get google API KEY:
 https://console.developers.google.com/apis/credentials
 
 2. plugins & links
+https://fotorama.io/
 https://www.blobmaker.app/
 https://webgradients.com/
 https://shape.so/app/animated-icons
