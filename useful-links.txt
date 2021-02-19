@@ -15,12 +15,9 @@ https://flickity.metafizzy.co/
 https://web.archive.org/
 https://blog.polarbits.co/2014/02/16/quick-tips-5-column-layout-with-twitter-bootstrap/
 
-3.free domain & hosting
-https://googiehost.com/
-link : https://byet.host/free-hosting/news
-youtub : https://www.youtube.com/watch?v=cFTgeR0eaHI
 
 4.free coding & css applications
+https://freefrontend.com/
 https://www.tyler.com/templates/
 http://www.bestjquery.com/lab/testimonials-showcase/
 http://bennettfeely.com/clippy/
@@ -111,4 +108,7 @@ https://www.xplace.com/dev/jobs
 21.free music
 https://www.bensound.com/royalty-free-music
 
-
+3.free domain & hosting
+https://googiehost.com/
+link : https://byet.host/free-hosting/news
+youtub : https://www.youtube.com/watch?v=cFTgeR0eaHI
